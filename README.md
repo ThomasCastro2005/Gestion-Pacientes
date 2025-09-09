@@ -45,8 +45,7 @@ Se desarrolló como prueba técnica integrando **frontend con backend** y mostra
 
 ### 1. Clonar el repositorio
 
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_PROYECTO>
+git clone <https://github.com/ThomasCastro2005/Gestion-Pacientes.git>
 
 2. Instalar dependencias
 composer install
